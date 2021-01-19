@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Rubik', sans-serif;
+
+}
+
+header{
+  height: 70px;
+  background-color: #fff;
+  margin-bottom: 40px;
+  padding: 10px 20px;
+}
+
+#logo{
+    vertical-align: middle;
+}
+
+#logo-text{
+    vertical-align: middle;
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.container{
+  height: 100%;
+}
+
+/* page instruction */
+
+body{
+  background-color: #f5f5f5;
+}
+
+main{
+  width: 80%;
+  margin: auto;
+  margin-top: 35px;
+  background-color: white;
+  padding-bottom: 30px;
+  border-radius: 20px;
+}
+
+section{
+  margin: 35px 35px;
+}
+
+.section_title{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+section ul{
+  list-style: none;
+  margin-top: 10px;
+}
+
+section ul li{
+  margin: 20px 0px;
+}
+
+.liststyle{
+  font-weight: 400;
+  border-radius: 50%;
+  padding: 3px;
+  border: 1px solid black;
+  font-weight: 500;
+}
+
+.check{
+  color: green;
+  border-color: green;
+}
+
+.cross{
+  color: darkred;
+  border-color: darkred;
+}
+/* label instructions */
+
+
+.label{
+  color:white;
+  padding: 5px 10px;
+  margin-left: 5px;
+  border-radius: 20px;
+}
+
+.editorial{
+  background: #4e71ba;
+}
+
+.qone{
+  background-color: purple;
+}
+
+.recruiting{
+  background-color: #03bb85;
+}
+
+.webside{
+  background-color: orange;
+}
+
+.sales{
+  background-color: #a2a303;
+}
+
+
+/* nav instruction */
+
+nav{
+  margin-top: 60px;
+  padding: 20px 0px;
+  border-bottom: 1px solid grey;
+}
+
+
+nav a{
+  text-decoration: none;
+  margin: 10px;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+#cta_uno{
+  color: white;
+  background-color: #4e71ba;
+  margin-left: 35px;
+}
+
+#cta_due{
+  color: grey;
+  border: 1px solid grey;
+}
